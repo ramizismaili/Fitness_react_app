@@ -102,6 +102,7 @@ body {
   }
   
   .exercise-video {
+    padding-top: 30px;
     display: flex;
     flex-direction: column;
     gap: 24px;
