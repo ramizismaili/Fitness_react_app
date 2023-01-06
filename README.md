@@ -1,6 +1,16 @@
-fitness-rismaili.netlify.app
+# [Live Site](https://fitness-rismaili.netlify.app)
+
+With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more.
+
+What I learned in this project:
+
+- Advanced React Best Practices such as file structure and hooks
+- Creating a Beautiful User Interface using the Material UI
+- Fetching data from unlimited sources using RapidAPI
 
 ![photo1](https://user-images.githubusercontent.com/101756045/203878899-35b632c8-1842-4a7c-ba94-a1813020065b.PNG)
+
+
 
 
 # Getting Started with Create React App
